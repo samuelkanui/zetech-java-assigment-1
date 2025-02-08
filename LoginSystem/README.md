@@ -29,9 +29,10 @@ The Login System GUI is a simple Java-based graphical user interface (GUI) appli
 ![alt text](<../images/Screenshot 2025-02-08 230450.png>)
 
 - Clear messages when the user has no attempts left.
-![alt text](<../images/Screenshot 2025-02-08 231420.png>)
+](<../images/Screenshot 2025-02-08 231420.png>)
 
-- Responsive design that centers the window on the screen.
+- Responsive design that prompts welcome message after correct password and username
+![alt text](<../images/Screenshot 2025-02-08 230709.png>)
 
 ## Requirements
 
