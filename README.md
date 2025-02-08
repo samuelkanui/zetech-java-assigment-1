@@ -1,6 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
 
@@ -20,18 +17,19 @@ The Login System GUI is a simple Java-based graphical user interface (GUI) appli
 ## Features
 
 - User authentication with a predefined username and password.
-![alt text](<../images/Screenshot 2025-02-08 230025.png>)
+![alt text](<images/Screenshot 2025-02-08 230025.png>)
 
 - Feedback messages indicating incorrect credentials.
-![alt text](<../images/Screenshot 2025-02-08 230307.png>)
+![alt text](<images/Screenshot 2025-02-08 230307.png>)
 
 - Limited login attempts (3 attempts).
-![alt text](<../images/Screenshot 2025-02-08 230450.png>)
+![alt text](<images/Screenshot 2025-02-08 230450.png>)
 
 - Clear messages when the user has no attempts left.
-![alt text](<../images/Screenshot 2025-02-08 231420.png>)
+![alt text](<images/Screenshot 2025-02-08 231420.png>)
 
-- Responsive design that centers the window on the screen.
+- When the user enters the correct username and password a welcome prompt appears
+![alt text](<images/Screenshot 2025-02-08 230709.png>)
 
 ## Requirements
 
