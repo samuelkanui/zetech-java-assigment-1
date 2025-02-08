@@ -21,16 +21,12 @@ The Login System GUI is a simple Java-based graphical user interface (GUI) appli
 
 - User authentication with a predefined username and password.
 ![alt text](<../images/Screenshot 2025-02-08 230025.png>)
-
 - Feedback messages indicating incorrect credentials.
 ![alt text](<../images/Screenshot 2025-02-08 230307.png>)
-
 - Limited login attempts (3 attempts).
 ![alt text](<../images/Screenshot 2025-02-08 230450.png>)
-
 - Clear messages when the user has no attempts left.
 ](<../images/Screenshot 2025-02-08 231420.png>)
-
 - Responsive design that prompts welcome message after correct password and username
 ![alt text](<../images/Screenshot 2025-02-08 230709.png>)
 
